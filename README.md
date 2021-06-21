@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm SUN</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h1 align="center">Hi 👋, I'm SUN🌞</h1>
+- 🌱 I’m currently learning **statistics**
+
+- 👨‍💻 All of my projects are available at [https://www.freebuf.com/author/stan1y](https://www.freebuf.com/author/stan1y)
+
+- 📝 I regularly write articles on [https://blog.csdn.net/realmardrid](https://blog.csdn.net/realmardrid)
+
+- 💬 Ask me about **network security/programming、nginx、waf**
 
 
 <h3 align="left">Languages and Tools:</h3>
