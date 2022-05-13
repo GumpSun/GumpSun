@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi 👋, I'm SUN🌞</h1>
-- 🌱 I’m currently learning statistics
+- 🌱 I’m currently learning kernel security
 
 - 👨‍💻 All of my projects are available at [https://www.freebuf.com/author/stan1y](https://www.freebuf.com/author/stan1y)
 
