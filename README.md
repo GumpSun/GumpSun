@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://blog.csdn.net/realmardrid](https://blog.csdn.net/realmardrid)
 
-- 💬 Ask me about **network security/programming、nginx、waf**
+- 💬 Ask me about **network&web security、nginx、c/c++**
 
 
 <h3 align="left">Languages and Tools:</h3>
